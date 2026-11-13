@@ -68,7 +68,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           <div>
             <div className="flex items-center gap-1.5">
               <span className="text-xl font-extrabold tracking-tight text-[#70452F]">
-                SweetOrder
+                Shirin Buyurtma
               </span>
               <span className="w-2 h-2 rounded-full bg-[#D99A66]" />
             </div>
@@ -143,7 +143,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
             Mijozlar buyurtmalarini o‘z vaqtida topshirish va sifatini nazorat qilish uchun doim holatlarni yangilab turing.
           </p>
           <div className="pt-1 flex items-center justify-between text-[11px] font-semibold text-[#70452F]">
-            <span>SweetOrder v1.0</span>
+            <span>Shirin Buyurtma v1.0</span>
             <span className="text-emerald-700 font-bold">● Jonli</span>
           </div>
         </div>

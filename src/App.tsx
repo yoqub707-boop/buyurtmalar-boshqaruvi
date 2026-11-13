@@ -133,7 +133,7 @@ export function App() {
         <footer className="mt-auto py-6 px-4 sm:px-8 border-t border-[#EEE8E1] bg-white text-center text-xs text-[#8D8178]">
           <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-3">
             <p className="font-medium">
-              © {new Date().getFullYear()} <span className="font-bold text-[#70452F]">SweetOrder</span> — Qandolatchi ustaning buyurtmalar daftari.
+              © {new Date().getFullYear()} <span className="font-bold text-[#70452F]">Shirin Buyurtma</span> — Qandolatchi ustaning buyurtmalar daftari.
             </p>
             <p className="text-[11px]">
               Barcha huquqlar himoyalangan.

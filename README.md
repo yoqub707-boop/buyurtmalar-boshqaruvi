@@ -1,14 +1,14 @@
-# SweetOrder — Qandolatchi buyurtmalar boshqaruvi
+# Shirin Buyurtma — Qandolatchi buyurtmalar boshqaruvi
 
 > **Qandolatchi ustaning buyurtmalar daftari** — mustaqil qandolatchilar va kichik novvoyxonalar uchun qulay, nafis va zamonaviy raqamli buyurtmalar boshqaruv tizimi.
 
-![SweetOrder Banner](https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1200&q=80)
+![Shirin Buyurtma Banner](https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1200&q=80)
 
 ---
 
 ## 🎂 Loyiha haqida
 
-**SweetOrder** — shaxsiy qandolatchi ustalarning kundalik buyurtmalarini hisobga olish, mijozlar talablarini vaqtida bajarish va mahsulot topshirilish holatini tezkor nazorat qilish uchun mo‘ljallangan professional veb-ilova.
+**Shirin Buyurtma** — shaxsiy qandolatchi ustalarning kundalik buyurtmalarini hisobga olish, mijozlar talablarini vaqtida bajarish va mahsulot topshirilish holatini tezkor nazorat qilish uchun mo‘ljallangan professional veb-ilova.
 
 ### Asosiy imkoniyatlar:
 - 📊 **Dinamik statistika paneli:** Jami buyurtmalar, yangi (jarayondagi) buyurtmalar, tayyor bo‘lganlar va bugungi faol buyurtmalar soni real vaqtda hisoblanadi.
